@@ -1,1 +1,21 @@
 Uppgift: Mer pseudo!
+
+1. Starta arbetsdagen
+2. Så länge som klockan inte är 17.00, ta emot kund
+3. Ny kund? Ja -> 4, Nej -> 5
+4. Sälj resa
+    4.1 Boka resa
+    4.2 Tilläggspaket
+        4.2.1 Boka tilläggspaket
+        2.2.2 -> 2
+5. Återbud? -> 6, Ändrat resedatum? -> 7
+6. Återbud
+    6.1 Återbetala förskottsbetalning
+    6.2 Avboka tilläggspaket
+    6.3 Avboka resa
+    6.4 -> 2
+7. Ändrat resedatum
+    7.1 Avboka resa
+    6.2 Avboka eventuellt tilläggspaket
+    6.2. -> 4.1
+8. Arbetsdagen är slut

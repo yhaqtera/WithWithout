@@ -1,1 +1,17 @@
 Uppgift: Pseudoprogrammering
+
+START
+- Mjölka korna
+- Dela upp mjölken i 1/4 och 3/4
+    - Separera (med separator) mjölken till grädde och skummjölk
+    - Vispa grädden till smör
+        - Gå med smöret till A.
+    - Gå med skummjölken till A.
+    - Pastörisera resterande mjölk (3/4)
+    - Homogenisera
+        - Gå med mjölken till A.
+    A. Paketera
+- Leverera till butik
+SLUT
+
+Processerna som innebär uppdelning av mjölkade mjölkmängder, separering, pastörisering och homogenisering är var och en möjliga att formulera som funktioner.
